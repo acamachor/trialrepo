@@ -1,13 +1,2 @@
-New file
-
-New line added by Ailyn Camacho
-
-Cambios en la rama
-
-Nombre: Ailyn Camacho
-
-Edicion clonada
-
-Mensaje del futuro por acamachor
-
-cambio para ver si cambia en local
+Estoy practicando como contirbir a un repositorio en GitHub
+Objetivo: hacer un pull request y modificar el archivo test.txt
